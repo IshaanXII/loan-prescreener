@@ -1,0 +1,11 @@
+age,monthly_income,employment_type,years_in_job,cibil_score,existing_emi,loan_amount,tenure_months,loan_purpose,past_defaults,name
+28,65000,Salaried,4,780,8000,500000,60,Home,0,Aarav Sharma
+35,45000,Self-Employed,6,710,12000,800000,84,Business,1,Priya Verma
+24,30000,Salaried,1,640,5000,300000,36,Personal,0,Rohan Gupta
+42,120000,Salaried,12,820,15000,1500000,120,Home,0,Neha Singh
+31,55000,Business,3,580,18000,600000,48,Business,2,Amit Patel
+29,75000,Salaried,5,750,0,400000,48,Auto,0,Sneha Reddy
+45,40000,Self-Employed,10,690,10000,350000,60,Education,0,Vikram Mehta
+26,28000,Salaried,2,600,9000,250000,24,Personal,1,Kavya Nair
+38,95000,Salaried,8,770,20000,1000000,96,Home,0,Arjun Malhotra
+33,50000,Unemployed,0,550,4000,200000,36,Personal,3,Rahul Yadav
